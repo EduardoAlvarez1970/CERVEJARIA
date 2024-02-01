@@ -1,4 +1,4 @@
-import Cerveja from '../models/Cerveja.js'
+import Cerveja from '../models/cerveja.js'
 
 const cadastrarCerveja = async (req, res) => {
     try {
